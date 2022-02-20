@@ -315,7 +315,7 @@ select {
 	height: 14rem; /* used instead of html rows to normalize height between Chrome and IE/FF */
 	padding-top: 1.5rem;
 	padding-left: 1.3125rem;
-	border: 1px solid #ffffff;
+	border: 1px solid #cbcbd1;
 	background-color: #ffffff;
 	color: #A776F2;
 	font-size: 0.875rem;
@@ -407,7 +407,7 @@ input[type='checkbox'] {
 	padding-left: 1rem;
 	overflow-y: auto;
 	visibility: hidden;
-	background-color: #ffffff;
+	background-color: #000000;
 	transition: visibility .3s ease-in-out, -webkit-transform .3s ease-in-out;
 	transition: transform .3s ease-in-out, visibility .3s ease-in-out;
 	transition: transform .3s ease-in-out, visibility .3s ease-in-out, -webkit-transform .3s ease-in-out;
