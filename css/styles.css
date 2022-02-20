@@ -390,7 +390,7 @@ input[type='checkbox'] {
 }
 
 .navbar .logo-text {
-	color: #ffffff;
+	color: #000000;
 	font-weight: 700;
 	font-size: 1.875rem;
 	line-height: 1rem;
@@ -427,7 +427,7 @@ input[type='checkbox'] {
 .navbar .nav-item .nav-link {
 	padding-top: 0.625rem;
 	padding-bottom: 0.625rem;
-	color: #ffffff;
+	color: #000000;
 	text-decoration: none;
 	transition: all 0.2s ease;
 }
